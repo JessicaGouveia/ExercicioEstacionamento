@@ -1,0 +1,7 @@
+C:\Users\Jéssica\source\repos\ExercicioEstacionamento\ExercicioEstacionamento\obj\Debug\ExercicioEstacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Jéssica\source\repos\ExercicioEstacionamento\ExercicioEstacionamento\obj\Debug\ExercicioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica\source\repos\ExercicioEstacionamento\ExercicioEstacionamento\bin\Debug\ExercicioEstacionamento.exe.config
+C:\Users\Jéssica\source\repos\ExercicioEstacionamento\ExercicioEstacionamento\bin\Debug\ExercicioEstacionamento.exe
+C:\Users\Jéssica\source\repos\ExercicioEstacionamento\ExercicioEstacionamento\bin\Debug\ExercicioEstacionamento.pdb
+C:\Users\Jéssica\source\repos\ExercicioEstacionamento\ExercicioEstacionamento\obj\Debug\ExercicioEstacionamento.exe
+C:\Users\Jéssica\source\repos\ExercicioEstacionamento\ExercicioEstacionamento\obj\Debug\ExercicioEstacionamento.pdb
